@@ -1,0 +1,111 @@
+@font-face {
+	font-family: iran-sans;
+	src: url('{% static 'fonts/iran_sans.ttf' %}');
+}
+
+h4{
+	font-size: 30px
+}
+
+.classynav ul li a{
+	font-size: 16px
+}
+
+.classynav ul li a :hover{
+	font-size: 16px
+}
+
+/* Main Page */
+
+.single-popular-course .seat-rating-fee .course-fee a {
+	font-size: 15px;
+}
+
+.single-popular-course .seat-rating-fee .seat-rating {
+	font-size: 15px;
+}
+
+.single-popular-course img {
+	
+	width: 350px;
+	height: 233px;
+	
+}
+
+.single-tutors-slides .tutor-thumbnail img{
+    width: auto;
+	min-width: 100%;
+    height: auto;
+	min-height: 100%
+}
+
+.single-tutors-slides .tutor-information p {
+	font-family: iran-sans;
+	font-size: 18px;
+}
+
+
+
+
+/* Single Course */
+
+.clever-tabs-content .nav-tabs .nav-item .nav-link.active{
+	font-size: 17px;
+}
+
+.clever-tabs-content .nav-tabs .nav-item .nav-link{
+	font-size: 17px;
+}
+
+.clever-btn{
+	font-size: 156x;
+}
+
+.clever-description .about-course p{
+	font-family: iran-sans;
+	font-size: 20px;
+}
+
+.sidebar-widget h4 {
+	font-size: 30px
+
+}
+.course-sidebar a{
+		font-size: 20px;
+}
+
+.course-sidebar .sidebar-widget ul li h6{
+	font-size: 18px
+	
+}
+
+.sidebar-widget .features-list li h6 i{
+	margin-left: 10px;
+	
+}
+
+.clever-description .all-instructors .single-instructor .instructor-info {
+	margin-right: 10px
+}
+
+.clever-description .all-instructors .single-instructor .instructor-thumb img{
+	border-radius: 3px;
+}
+
+.single-accordion h6 a{
+	font-size: 16px;
+	
+}
+
+.single-accordion .accordion-content p {
+	font-family: iran-sans;
+	font-size: 16px;
+	
+}
+
+
+
+
+
+
+
